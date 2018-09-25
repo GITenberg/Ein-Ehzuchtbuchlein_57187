@@ -1,0 +1,25 @@
+_repo: Ein-Ehzuchtbuchlein_57187
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schäfer, Rudolf
+    gutenberg_agent_id: '49236'
+    url: http://www.gutenberg.org/2009/agents/49236
+creator:
+  author:
+    agent_name: Oeser, Hermann
+    gutenberg_agent_id: '49235'
+    url: http://www.gutenberg.org/2009/agents/49235
+description: ''
+gutenberg_issued: '2018-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57187'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ein Ehzuchtbüchlein
+url: http://www.gutenberg.org/ebooks/57187
